@@ -4,4 +4,4 @@ zookeeper :  .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.propert
 
 kafka server :  .\bin\windows\kafka-server-start.bat .\config\server.properties
 
-produce : http://localhost:9191/produce-app/publish/sheshu
+produce : http://localhost:9191/producer-app/publish/sheshu/80
